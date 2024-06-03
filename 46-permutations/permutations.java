@@ -1,7 +1,12 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> ans=new ArrayList<>();
-        compute(nums, 0, new ArrayList<>(), ans, new boolean[nums.length]);
+        // compute(nums, 0, new ArrayList<>(), ans, new boolean[nums.length]);
+        List<Integer> dp = new ArrayList<>();
+        for(int i=0;i<nums.length;i++){
+            dp.add(nums[i]);
+        }
+        computeSwapApproach(0, dp, ans);
         return ans;
     }
 
@@ -18,5 +23,23 @@ class Solution {
             taken[t]=false;
             dp.removeLast();
         }
+    }
+
+    public void computeSwapApproach(int i, List<Integer> dp, List<List<Integer>> ans){
+        if(i==dp.size()){
+            ans.add(new ArrayList<>(dp));
+            return;
+        }
+        for(int t=i;t<dp.size();t++){
+            swap(dp,i,t);
+            computeSwapApproach(i+1,dp, ans);
+            swap(dp,i,t);
+        }
+    }
+
+    public void swap(List<Integer> dp, int i, int j){
+        int temp=dp.get(i);
+        dp.set(i, dp.get(j));
+        dp.set(j, temp);
     }
 }
