@@ -24,52 +24,38 @@ class Solution {
             return;
         }
         for(int tj=0;tj<n;tj++){
-            if(validate(board, i, tj, n, n, columnHash, urHash, ulHash)){
+            if(validate(board, i, tj, n, columnHash, urHash, ulHash)){
                 board[i][tj]=1;
+                setHashes(i, tj, n, columnHash, urHash, ulHash, 1);
                 compute(board, i+1, n, boardAns, columnHash, urHash, ulHash);
+                setHashes(i, tj, n, columnHash, urHash, ulHash, 0);
                 board[i][tj]=0;
             }
         }
     }
-    public boolean validate(int[][] board, int i, int j, int row, int column, int[] columnHash, int[] urHash, int[] ulHash){
-        //move diagonally top and bottom
-        //move vertically and horizontally
 
-        //COLUMNS of the row
-        // for(int temp_j=0;temp_j<column;temp_j++){
-        //     if(board[i][temp_j]==1){
-        //         return false;
-        //     }
-        // }
-        // ROWS of the column
-        for(int temp_i=0;temp_i<i;temp_i++){
-            if(board[temp_i][j]==1){
-                return false;
-            }
+    public void setHashes(int i, int j, int n, int[] columnHash, int[] urHash, int[] ulHash, int value){
+        columnHash[j]=value;
+        urHash[i+j]=value;
+        ulHash[(n-1)+(j-i)]=value;
+    } 
+
+    public boolean validate(int[][] board, int i, int j, int n, int[] columnHash, int[] urHash, int[] ulHash){
+        if(columnHash[j]==1){
+            return false;
         }
 
-        // DIAGONAL UP LEFT
-        int x_i=i,x_j=j;
-        while(x_i>=0 && x_j>=0){
-            if(board[x_i][x_j]==1){
-                return false;
-            }
-            x_i--;
-            x_j--;
+         if(urHash[i+j]==1){
+            return false;
         }
 
-        // DIAGONAL UP RIGHT
-        x_i=i;
-        x_j=j;
-        while(x_i>=0 && x_j<column){
-            if(board[x_i][x_j]==1){
-                return false;
-            }
-            x_i--;
-            x_j++;
+        if(ulHash[(n-1)+(j-i)]==1){
+            return false;
         }
+
         return true;
-    }
+    }       
+ 
 }
 // class Solution {
 //     public List<List<String>> solveNQueens(int n) {
