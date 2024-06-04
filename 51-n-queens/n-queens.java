@@ -34,18 +34,21 @@ class Solution {
     public boolean validate(int[][] board, int i, int j, int row, int column){
         //move diagonally top and bottom
         //move vertically and horizontally
+
+        //COLUMNS of the row
         for(int temp_j=0;temp_j<column;temp_j++){
             if(board[i][temp_j]==1){
                 return false;
             }
         }
-
-        for(int temp_i=0;temp_i<row;temp_i++){
+        // ROWS of the column
+        for(int temp_i=0;temp_i<i;temp_i++){
             if(board[temp_i][j]==1){
                 return false;
             }
         }
 
+        // DIAGONAL UP LEFT
         int x_i=i,x_j=j;
         while(x_i>=0 && x_j>=0){
             if(board[x_i][x_j]==1){
@@ -55,6 +58,7 @@ class Solution {
             x_j--;
         }
 
+        // DIAGONAL UP RIGHT
         x_i=i;
         x_j=j;
         while(x_i>=0 && x_j<column){
@@ -65,25 +69,28 @@ class Solution {
             x_j++;
         }
 
-        x_i=i;
-        x_j=j;
-        while(x_i<row && x_j<column){
-            if(board[x_i][x_j]==1){
-                return false;
-            }
-            x_i++;
-            x_j++;
-        }
+        // NO NEED TO USE IT AS WE ARE GOING ROW BY ROW, AND WE UNDERSTAND THAT LOWER LEVELS WON'T YET HAVE ANY QUEEN
+        //BOTTOM RIGHT
+        // x_i=i;
+        // x_j=j;
+        // while(x_i<row && x_j<column){
+        //     if(board[x_i][x_j]==1){
+        //         return false;
+        //     }
+        //     x_i++;
+        //     x_j++;
+        // }
 
-        x_i=i;
-        x_j=j;
-        while(x_i<row && x_j>=0){
-            if(board[x_i][x_j]==1){
-                return false;
-            }
-            x_i++;
-            x_j--;
-        }
+        // BOTTOM LEFT 
+        // x_i=i;
+        // x_j=j;
+        // while(x_i<row && x_j>=0){
+        //     if(board[x_i][x_j]==1){
+        //         return false;
+        //     }
+        //     x_i++;
+        //     x_j--;
+        // }
 
 
 
