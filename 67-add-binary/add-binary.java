@@ -4,24 +4,26 @@ class Solution {
         int a_index=a.length();
         int b_index=b.length();
         int carry=0;
+        // DOESN"T WORK FOR LONG INTEGER STRINGS
+        // return Integer.toBinaryString((Integer.parseInt(a, 2)+Integer.parseInt(b,2)));
         int max_count=(a_index>b_index)?a_index:b_index;
         for(int i=0;i<max_count;i++){
             char a_value=(a_index-i-1)>=0?a.charAt(a_index-i-1):'0';
             char b_value=(b_index-i-1)>=0?b.charAt(b_index-i-1):'0';
             if(a_value=='1' && b_value=='1'){
-                sb.insert(0, carry==1?'1':'0');
+                sb.append(carry==1?'1':'0');
                 carry=1;
             }else if(a_value=='1' || b_value=='1'){
-                sb.insert(0, (carry==1)?'0':'1');
+                sb.append((carry==1)?'0':'1');
             }else{
-                sb.insert(0, carry==1?'1':'0');
+                sb.append(carry==1?'1':'0');
                 carry=0;
             }  
         }
         if(carry==1){
-            sb.insert(0, '1');
+            sb.append('1');
         }
-        return sb.toString();
+        return sb.reverse().toString();
     }
 }
 
