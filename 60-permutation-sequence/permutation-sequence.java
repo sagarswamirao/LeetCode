@@ -1,16 +1,16 @@
 class Solution {
     public String getPermutation(int n, int k) {
-        char[] nums = new char[n];
+        int[] nums = new int[n];
         List<String> ans = new ArrayList<>();
         for(int i=1;i<=n;i++){
-            nums[i-1]=(char)(i + '0');
+            nums[i-1]=i;
         }
 
         compute(0, nums, new StringBuilder(), ans, new boolean[n], k);
         return ans.getLast();
     }
 
-    public boolean compute(int index, char[] nums, StringBuilder dp, List<String> ans, boolean[] taken, int k){
+    public boolean compute(int index, int[] nums, StringBuilder dp, List<String> ans, boolean[] taken, int k){
         if(index==nums.length){
             ans.add(dp.toString());
             if(k==ans.size()){
