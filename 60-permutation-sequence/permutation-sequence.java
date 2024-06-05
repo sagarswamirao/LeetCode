@@ -1,5 +1,5 @@
 class Solution {
-
+    //USING PARTITIONING
     public String getPermutation(int n, int k) {
         ArrayList<Integer> nums=new ArrayList<>();
         int fact=1;
@@ -8,17 +8,26 @@ class Solution {
             fact*=i;
             nums.add(i);
         }
+        //we want n-1 fact
+        // all numbers from 1 to n
         nums.add(n);
+
+        // as we are doing it on 0 index, so we will need to find the k-1 permutation
         k-=1;
         while(true){
+            // get the number in the range. As 0 indexing, we get the excess number :)
            sb.append(nums.get(k/fact));
+           // the number at the index is taken, so remove it from the existing list of available nums
             nums.remove(k/fact);
 
+            // if no available nums, then exit
             if(nums.size()==0){
                 break;
             }
 
+            // here we want the delta left over excess for the next round
             k=k% fact;
+            // reducing it TO n-1 for the next round
             fact=fact/nums.size();
         }
         return sb.toString();
