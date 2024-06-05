@@ -1,5 +1,31 @@
 class Solution {
+
     public String getPermutation(int n, int k) {
+        ArrayList<Integer> nums=new ArrayList<>();
+        int fact=1;
+        StringBuilder sb=new StringBuilder();
+        for(int i=1;i<n;i++){
+            fact*=i;
+            nums.add(i);
+        }
+        nums.add(n);
+        k-=1;
+        while(true){
+           sb.append(nums.get(k/fact));
+            nums.remove(k/fact);
+
+            if(nums.size()==0){
+                break;
+            }
+
+            k=k% fact;
+            fact=fact/nums.size();
+        }
+        return sb.toString();
+    }
+
+    // METHOD 2: NORMAL WAY (RECURSION)
+    public String getPermutation2(int n, int k) {
         int[] nums = new int[n];
         List<String> ans = new ArrayList<>();
         for(int i=1;i<=n;i++){
