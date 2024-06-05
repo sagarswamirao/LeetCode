@@ -12,17 +12,11 @@ class Solution {
                 sb.insert(0, carry==1?'1':'0');
                 carry=1;
             }else if(a_value=='1' || b_value=='1'){
-                if(carry==1){
-                    sb.insert(0, '0');
-                    carry=1;
-                }else{
-                    sb.insert(0, '1');
-                }
+                sb.insert(0, (carry==1)?'0':'1');
             }else{
                 sb.insert(0, carry==1?'1':'0');
                 carry=0;
-            }
-            
+            }  
         }
         if(carry==1){
             sb.insert(0, '1');
