@@ -1,6 +1,7 @@
 class Solution {
     public String intToRoman(int num) {
         StringBuilder sb=new StringBuilder();
+        //S: O(2n); Doubly LinkedList Impl
         HashMap<Integer, String> romanIntMap=new LinkedHashMap<>();
         romanIntMap.put(1000,"M");
         romanIntMap.put(900,"CM");
@@ -16,7 +17,7 @@ class Solution {
         romanIntMap.put(4,"IV");
         romanIntMap.put(1,"I");
 
-        //goal is to start from the highest denomination
+        //goal is to start from the highest denomination; so 4 and 9 scenarios are well covered
         for(Map.Entry<Integer, String> entry: romanIntMap.entrySet()){
             while (entry.getKey() <= num) {
                 num = num - entry.getKey();
