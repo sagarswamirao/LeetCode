@@ -3,11 +3,10 @@ class Solution {
         boolean[] visited=new boolean[isConnected.length];
         int count=0;
         for(int i=0;i<isConnected.length;i++){
-                if(!visited[i]){
-                    count+=1;
-                    callRecursive(isConnected, visited, i);       
-                }
-            // }
+            if(!visited[i]){
+                count+=1;
+                callRecursive(isConnected, visited, i);       
+            }
         }
         return count;
     }
@@ -19,6 +18,5 @@ class Solution {
                 callRecursive(isConnected, visited, neighbor);
             }
         }
-
     }
 }
