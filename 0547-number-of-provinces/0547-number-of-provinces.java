@@ -6,8 +6,8 @@ class Solution {
             for(int j=0;j<isConnected.length;j++){
                 if(isConnected[i][j]==1 && !visited[i][j]){
                     count+=1;
-                    visited[i][j]=true;
-                    visited[j][i]=true;
+                    // visited[i][j]=true;
+                    // visited[j][i]=true;
                     callRecursive(isConnected, visited, i);       
                 }
             }
@@ -15,13 +15,13 @@ class Solution {
         return count;
     }
 
-    public void callRecursive(int[][] isConnected, boolean[][] visited, int startI){
+    public void callRecursive(int[][] isConnected, boolean[][] visited, int i){
         for(int j=0;j<isConnected.length;j++){
-                if(isConnected[startI][j]==1 && !visited[startI][j]){
-                    visited[startI][j]=true;
-                    visited[j][startI]=true;
-                    callRecursive(isConnected, visited, j);
-                }
+            if(isConnected[i][j]==1 && !visited[i][j]){
+                visited[i][j]=true;
+                visited[j][i]=true;
+                callRecursive(isConnected, visited, j);
+            }
         }
 
     }
