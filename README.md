@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sagarswamirao/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0271-encode-and-decode-strings](https://github.com/sagarswamirao/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0838-design-linked-list](https://github.com/sagarswamirao/LeetCode/tree/master/0838-design-linked-list) |
 ## Linked List
@@ -148,9 +149,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sagarswamirao/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sagarswamirao/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sagarswamirao/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sagarswamirao/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
