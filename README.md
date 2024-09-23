@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sagarswamirao/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/sagarswamirao/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sagarswamirao/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/sagarswamirao/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/sagarswamirao/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sagarswamirao/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagarswamirao/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2755-extra-characters-in-a-string](https://github.com/sagarswamirao/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/sagarswamirao/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sagarswamirao/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagarswamirao/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2755-extra-characters-in-a-string](https://github.com/sagarswamirao/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/sagarswamirao/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [2755-extra-characters-in-a-string](https://github.com/sagarswamirao/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -156,4 +160,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sagarswamirao/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sagarswamirao/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Trie
+|  |
+| ------- |
+| [2755-extra-characters-in-a-string](https://github.com/sagarswamirao/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
