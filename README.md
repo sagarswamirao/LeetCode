@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/sagarswamirao/LeetCode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/sagarswamirao/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0208-implement-trie-prefix-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/sagarswamirao/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sagarswamirao/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sagarswamirao/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/sagarswamirao/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sagarswamirao/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/sagarswamirao/LeetCode/tree/master/0242-valid-anagram) |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/sagarswamirao/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0271-encode-and-decode-strings](https://github.com/sagarswamirao/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0838-design-linked-list](https://github.com/sagarswamirao/LeetCode/tree/master/0838-design-linked-list) |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [2755-extra-characters-in-a-string](https://github.com/sagarswamirao/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sagarswamirao/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Depth-First Search
