@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/sagarswamirao/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/sagarswamirao/LeetCode/tree/master/0859-design-circular-deque) |
+| [1256-rank-transform-of-an-array](https://github.com/sagarswamirao/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sagarswamirao/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sagarswamirao/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/sagarswamirao/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sagarswamirao/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sagarswamirao/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/sagarswamirao/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagarswamirao/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2755-extra-characters-in-a-string](https://github.com/sagarswamirao/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sagarswamirao/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/sagarswamirao/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sagarswamirao/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/sagarswamirao/LeetCode/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/sagarswamirao/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
