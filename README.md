@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/sagarswamirao/LeetCode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/sagarswamirao/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/sagarswamirao/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sagarswamirao/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/sagarswamirao/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/sagarswamirao/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/sagarswamirao/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/sagarswamirao/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sagarswamirao/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sagarswamirao/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0829-subdomain-visit-count](https://github.com/sagarswamirao/LeetCode/tree/master/0829-subdomain-visit-count) |
@@ -233,4 +235,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sagarswamirao/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
