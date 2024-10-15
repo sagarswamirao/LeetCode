@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/sagarswamirao/LeetCode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/sagarswamirao/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/sagarswamirao/LeetCode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/sagarswamirao/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sagarswamirao/LeetCode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/sagarswamirao/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0271-encode-and-decode-strings](https://github.com/sagarswamirao/LeetCode/tree/master/0271-encode-and-decode-strings) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sagarswamirao/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/sagarswamirao/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/sagarswamirao/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sagarswamirao/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sagarswamirao/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/sagarswamirao/LeetCode/tree/master/0838-design-linked-list) |
@@ -290,4 +293,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sagarswamirao/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sagarswamirao/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
