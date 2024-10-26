@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1349-check-if-it-is-a-straight-line](https://github.com/sagarswamirao/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sagarswamirao/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1582-design-browser-history](https://github.com/sagarswamirao/LeetCode/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sagarswamirao/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/sagarswamirao/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagarswamirao/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0838-design-linked-list](https://github.com/sagarswamirao/LeetCode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/sagarswamirao/LeetCode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sagarswamirao/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1582-design-browser-history](https://github.com/sagarswamirao/LeetCode/tree/master/1582-design-browser-history) |
 ## Linked List
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/sagarswamirao/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/sagarswamirao/LeetCode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/sagarswamirao/LeetCode/tree/master/0859-design-circular-deque) |
+| [1582-design-browser-history](https://github.com/sagarswamirao/LeetCode/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
 | ------- |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/sagarswamirao/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1002-maximum-width-ramp](https://github.com/sagarswamirao/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sagarswamirao/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1582-design-browser-history](https://github.com/sagarswamirao/LeetCode/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sagarswamirao/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sagarswamirao/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Queue
@@ -305,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sagarswamirao/LeetCode/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/sagarswamirao/LeetCode/tree/master/1582-design-browser-history) |
 ## Backtracking
 |  |
 | ------- |
@@ -313,4 +318,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagarswamirao/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/sagarswamirao/LeetCode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
