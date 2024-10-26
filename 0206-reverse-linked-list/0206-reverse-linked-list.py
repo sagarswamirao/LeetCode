@@ -10,15 +10,15 @@ class Solution:
         prev=None
 
         # RECURSIVE
-        return self.reverseListRec(curr, prev)
+        # return self.reverseListRec(curr, prev)
 
         # ITEREATIVE
-        # while curr:
-        #     next=curr.next
-        #     curr.next=prev
-        #     prev=curr
-        #     curr=next
-        # return prev
+        while curr:
+            next=curr.next
+            curr.next=prev
+            prev=curr
+            curr=next
+        return prev
 
     def reverseListRec(self, curr: Optional[ListNode], prev: Optional[ListNode]) -> Optional[ListNode]:
         if not curr:
