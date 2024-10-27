@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/sagarswamirao/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/sagarswamirao/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sagarswamirao/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sagarswamirao/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sagarswamirao/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/sagarswamirao/LeetCode/tree/master/1582-design-browser-history) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/sagarswamirao/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sagarswamirao/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sagarswamirao/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/sagarswamirao/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Recursion
 |  |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sagarswamirao/LeetCode/tree/master/0036-valid-sudoku) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sagarswamirao/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Design
 |  |
 | ------- |
