@@ -1,12 +1,13 @@
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
         n=len(nums)
-        self.mergeSort(nums,0, n-1)
-        return nums
+
         # return self.selectionSort(nums, n)
         # return self.bubbleSort(nums, n)
         # return self.insertionSort(nums, n)
-        # return self.
+        self.mergeSort(nums,0, n-1)
+        # self.quickSort(nums,0, n-1)
+        return nums
 
     def insertionSort(self, nums, n):
         for i in range(0,n-1):
@@ -64,8 +65,26 @@ class Solution:
         for i in range(low,high+1):
             nums[i]=tmp_arr[i-low]
 
-    def quickSort(self):
-        pass
+    def quickSort(self,nums,low,high):
+        if low>=high:
+            return
+        partition_index=self.quickPartition(nums, low, high)
+        self.quickSort(nums,low,partition_index-1)
+        self.quickSort(nums,partition_index+1,high)
 
+    def quickPartition(self, nums, low, high):
+        i=low
+        j=high
+        pivotIndex=low
+        while i<j:
+            while i<high and nums[i]<=nums[pivotIndex]:
+                i+=1
+            while j>low and nums[j]>nums[pivotIndex]:
+                j-=1
+            if i<j:
+                self.swap(nums,i,j)
+        self.swap(nums,pivotIndex,j)
+        return j
+    
     def swap(self, arr, i, j):
         arr[i], arr[j] = arr[j], arr[i]
