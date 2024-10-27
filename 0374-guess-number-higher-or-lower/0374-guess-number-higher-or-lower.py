@@ -10,13 +10,13 @@ class Solution:
         low=1
         high=n
         while low<=high:
-            mid=(low + high) // 2
+            mid=low + (high - low)// 2
 
             guess_response= guess(mid)
 
-            if guess_response==-1: # means we choose a smaller val, we have to increase
+            if guess_response==-1: # means we choose a higher val, we have to reduce
                 high=mid-1
-            elif guess_response==1: # means we choose a higher val, we have to reduce
+            elif guess_response==1: # means we choose a smaller val, we have to increase
                 low=mid+1
             else:
                 return mid
