@@ -1,9 +1,9 @@
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
-        self.recursiveFloodCompute(image, sr, sc, image[sr][sc], color, set())
+        if image[sr][sc]!=color:
+            self.recursiveFloodCompute(image, sr, sc, image[sr][sc], color)
         return image
-    def recursiveFloodCompute(self, image, r, c, initialC, targetC, visited_set):
-        visited_set.add((r, c))
+    def recursiveFloodCompute(self, image, r, c, initialC, targetC):
         image[r][c]=targetC
         directions=[[-1,0], [1,0], [0,-1], [0,1]]
         for direction in directions:
@@ -12,5 +12,5 @@ class Solution:
             new_c=c+dy
             if new_r<0 or new_c<0 or new_r>=len(image) or new_c>=len(image[0]):
                 continue
-            if image[new_r][new_c]==initialC and (new_r, new_c) not in visited_set:
-                self.recursiveFloodCompute(image, new_r, new_c, initialC, targetC, visited_set)
+            if image[new_r][new_c]==initialC:
+                self.recursiveFloodCompute(image, new_r, new_c, initialC, targetC)
