@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/sagarswamirao/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/sagarswamirao/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sagarswamirao/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0271-encode-and-decode-strings](https://github.com/sagarswamirao/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0729-my-calendar-i](https://github.com/sagarswamirao/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/sagarswamirao/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/sagarswamirao/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sagarswamirao/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sagarswamirao/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sagarswamirao/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1002-maximum-width-ramp](https://github.com/sagarswamirao/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sagarswamirao/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sagarswamirao/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sagarswamirao/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/sagarswamirao/LeetCode/tree/master/0859-design-circular-deque) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sagarswamirao/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Trie
