@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sagarswamirao/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sagarswamirao/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/sagarswamirao/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sagarswamirao/LeetCode/tree/master/0733-flood-fill) |
@@ -319,12 +320,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sagarswamirao/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sagarswamirao/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sagarswamirao/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sagarswamirao/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sagarswamirao/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -332,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sagarswamirao/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sagarswamirao/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sagarswamirao/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
