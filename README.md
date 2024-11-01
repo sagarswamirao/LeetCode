@@ -317,14 +317,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
