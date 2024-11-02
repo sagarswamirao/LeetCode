@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sagarswamirao/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sagarswamirao/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/sagarswamirao/LeetCode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sagarswamirao/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sagarswamirao/LeetCode/tree/master/0078-subsets) |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sagarswamirao/LeetCode/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagarswamirao/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
