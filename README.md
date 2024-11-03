@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sagarswamirao/LeetCode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/sagarswamirao/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/sagarswamirao/LeetCode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/sagarswamirao/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sagarswamirao/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/sagarswamirao/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sagarswamirao/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/sagarswamirao/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sagarswamirao/LeetCode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/sagarswamirao/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/sagarswamirao/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sagarswamirao/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Simulation
 |  |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sagarswamirao/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sagarswamirao/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/sagarswamirao/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sagarswamirao/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sagarswamirao/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/sagarswamirao/LeetCode/tree/master/0948-sort-an-array) |
@@ -236,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/sagarswamirao/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sagarswamirao/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0271-encode-and-decode-strings](https://github.com/sagarswamirao/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0295-find-median-from-data-stream](https://github.com/sagarswamirao/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0729-my-calendar-i](https://github.com/sagarswamirao/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0838-design-linked-list](https://github.com/sagarswamirao/LeetCode/tree/master/0838-design-linked-list) |
@@ -395,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/sagarswamirao/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [1582-design-browser-history](https://github.com/sagarswamirao/LeetCode/tree/master/1582-design-browser-history) |
 ## Radix Sort
 |  |
