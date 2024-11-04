@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/sagarswamirao/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarswamirao/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sagarswamirao/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/sagarswamirao/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sagarswamirao/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sagarswamirao/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -222,12 +223,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sagarswamirao/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/sagarswamirao/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sagarswamirao/LeetCode/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sagarswamirao/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/sagarswamirao/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sagarswamirao/LeetCode/tree/master/0733-flood-fill) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sagarswamirao/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Design
@@ -291,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/sagarswamirao/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sagarswamirao/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sagarswamirao/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sagarswamirao/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/sagarswamirao/LeetCode/tree/master/0547-number-of-provinces) |
@@ -301,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/sagarswamirao/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sagarswamirao/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sagarswamirao/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sagarswamirao/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sagarswamirao/LeetCode/tree/master/0733-flood-fill) |
 ## Graph
