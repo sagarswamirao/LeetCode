@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/sagarswamirao/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/sagarswamirao/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sagarswamirao/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0695-max-area-of-island](https://github.com/sagarswamirao/LeetCode/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/sagarswamirao/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/sagarswamirao/LeetCode/tree/master/0733-flood-fill) |
@@ -225,12 +226,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/sagarswamirao/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sagarswamirao/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sagarswamirao/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/sagarswamirao/LeetCode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sagarswamirao/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sagarswamirao/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sagarswamirao/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sagarswamirao/LeetCode/tree/master/0733-flood-fill) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sagarswamirao/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Design
@@ -298,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sagarswamirao/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/sagarswamirao/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/sagarswamirao/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sagarswamirao/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -307,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/sagarswamirao/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sagarswamirao/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sagarswamirao/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/sagarswamirao/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sagarswamirao/LeetCode/tree/master/0733-flood-fill) |
 ## Graph
 |  |
