@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/sagarswamirao/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/sagarswamirao/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sagarswamirao/LeetCode/tree/master/0075-sort-colors) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sagarswamirao/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/sagarswamirao/LeetCode/tree/master/0070-climbing-stairs) |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sagarswamirao/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/sagarswamirao/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sagarswamirao/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sagarswamirao/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
