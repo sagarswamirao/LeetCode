@@ -20,9 +20,9 @@ class Solution:
             if next_i<0 or next_i>max_i or next_j<0 or next_j>max_j:
                 continue
                 
-            if (next_i,next_j) not in visited:
-                visited.add((next_i,next_j))
-                ans+=self.dfs(next_i, next_j, max_i, max_j, visited, cache)
-                visited.remove((next_i,next_j))
+            # if (next_i,next_j) not in visited:
+                # visited.add((next_i,next_j))
+            ans+=self.dfs(next_i, next_j, max_i, max_j, visited, cache)
+                # visited.remove((next_i,next_j))
             cache[(curr_i, curr_j)]=ans
         return ans
