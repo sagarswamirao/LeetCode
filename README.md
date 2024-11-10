@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0220-contains-duplicate-iii](https://github.com/sagarswamirao/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/sagarswamirao/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/sagarswamirao/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/sagarswamirao/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/sagarswamirao/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/sagarswamirao/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sagarswamirao/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sagarswamirao/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/sagarswamirao/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagarswamirao/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sagarswamirao/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sagarswamirao/LeetCode/tree/master/0242-valid-anagram) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/sagarswamirao/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/sagarswamirao/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sagarswamirao/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0829-subdomain-visit-count](https://github.com/sagarswamirao/LeetCode/tree/master/0829-subdomain-visit-count) |
