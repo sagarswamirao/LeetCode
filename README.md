@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/sagarswamirao/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1020-longest-turbulent-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1036-rotting-oranges](https://github.com/sagarswamirao/LeetCode/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/sagarswamirao/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/sagarswamirao/LeetCode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/sagarswamirao/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/sagarswamirao/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/sagarswamirao/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0731-my-calendar-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/sagarswamirao/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagarswamirao/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sagarswamirao/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/sagarswamirao/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sagarswamirao/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/sagarswamirao/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -399,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0220-contains-duplicate-iii](https://github.com/sagarswamirao/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sagarswamirao/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1020-longest-turbulent-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/1020-longest-turbulent-subarray) |
+| [1046-max-consecutive-ones-iii](https://github.com/sagarswamirao/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sagarswamirao/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sagarswamirao/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Stack
