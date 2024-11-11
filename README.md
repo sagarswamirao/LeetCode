@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/sagarswamirao/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/sagarswamirao/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0966-binary-subarrays-with-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/sagarswamirao/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/sagarswamirao/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1020-longest-turbulent-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/1020-longest-turbulent-subarray) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/sagarswamirao/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/sagarswamirao/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sagarswamirao/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagarswamirao/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0829-subdomain-visit-count](https://github.com/sagarswamirao/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sagarswamirao/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/sagarswamirao/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/sagarswamirao/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sagarswamirao/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagarswamirao/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -412,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/sagarswamirao/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sagarswamirao/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0940-fruit-into-baskets](https://github.com/sagarswamirao/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/sagarswamirao/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sagarswamirao/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
