@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/sagarswamirao/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sagarswamirao/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sagarswamirao/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sagarswamirao/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sagarswamirao/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sagarswamirao/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sagarswamirao/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagarswamirao/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sagarswamirao/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/sagarswamirao/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/sagarswamirao/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sagarswamirao/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sagarswamirao/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagarswamirao/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sagarswamirao/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -154,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/sagarswamirao/LeetCode/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/sagarswamirao/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sagarswamirao/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sagarswamirao/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -418,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/sagarswamirao/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sagarswamirao/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sagarswamirao/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sagarswamirao/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sagarswamirao/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
