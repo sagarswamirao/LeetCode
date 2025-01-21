@@ -9,18 +9,17 @@ class Solution:
             for c in range(len(grid[0])):
                 if grid[r][c]=="1":
                     num_islands+=1
-                    self.worker(grid, r, c, len(grid)-1, len(grid[0])-1)
+                    self.worker(grid, r, c, len(grid), len(grid[0]))
         return num_islands
 
-    def worker(self, grid, curr_r, curr_c, max_r, max_c):
+    def worker(self, grid, curr_r, curr_c, rows, cols):
+        if curr_r<0 or curr_c<0 or curr_r>=rows or curr_c>=cols or grid[curr_r][curr_c]=="0":
+            return 
         grid[curr_r][curr_c]="0"
-        directions=[[-1,0],[1,0],[0,-1],[0,1]]
-        for direction in directions:
-            dr, dc=direction
-            next_r=curr_r+dr
-            next_c=curr_c+dc
 
-            if next_r>=0 and next_r<=max_r and next_c>=0 and next_c<=max_c:
-                if grid[next_r][next_c]=="1":
-                    self.worker(grid, next_r, next_c, max_r, max_c)
+        self.worker(grid, curr_r+1, curr_c, rows, cols)
+        self.worker(grid, curr_r, curr_c+1, rows, cols)
+        self.worker(grid, curr_r-1, curr_c, rows, cols)
+        self.worker(grid, curr_r, curr_c-1, rows, cols)
+
         
