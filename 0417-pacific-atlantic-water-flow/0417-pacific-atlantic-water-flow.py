@@ -15,10 +15,9 @@ class Solution:
 
         result=[]
 
-        for i in range(rows):
-            for j in range(cols):
-                if (i,j) in pac_set and (i,j) in alt_set:
-                    result.append([i,j])
+        for i in pac_set:
+            if i in alt_set:
+                result.append(list(i))
         
         return result
 
