@@ -7,8 +7,6 @@ class Solution:
             adj_list[j].add(i)
 
         def dfs_explore(node):
-            if visited[node]:
-                return
             visited[node]=True
             for nei in adj_list[node]:
                 if not visited[nei]:
