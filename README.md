@@ -551,4 +551,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sagarswamirao/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
