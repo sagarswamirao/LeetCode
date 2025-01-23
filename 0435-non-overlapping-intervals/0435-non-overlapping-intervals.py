@@ -2,14 +2,14 @@ class Solution:
     def eraseOverlapIntervals(self, intervals: List[List[int]]) -> int:
         intervals.sort(key = lambda x: x[1])
         ans = 0
-        curr_max_end_time = -inf
+        prev_max_end_time = -inf
         
-        for start, end in intervals:
-            if start >= curr_max_end_time:
-                # Case 1         start >= curr_max_end_time
-                curr_max_end_time = end
+        for curr_start, curr_end in intervals:
+            if curr_start >= prev_max_end_time:
+                # Case 1         curr_start >= curr_max_end_time
+                prev_max_end_time = curr_end
             else:
-                # Case 2         start < curr_max_end_time
+                # Case 2         curr_start < curr_max_end_time
                 ans += 1
         
         return ans
