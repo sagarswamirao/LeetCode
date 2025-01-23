@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/sagarswamirao/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/sagarswamirao/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sagarswamirao/LeetCode/tree/master/0075-sort-colors) |
