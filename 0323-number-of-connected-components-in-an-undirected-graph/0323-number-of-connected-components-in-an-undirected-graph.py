@@ -13,8 +13,7 @@ class Solution:
         def union(x1, x2):
             root1 = find(x1)
             root2 = find(x2)
-            if root1 != root2:
-                parent[root2] = root1
+            parent[root2] = root1
 
         for i,j in edges:
             union(i,j)
