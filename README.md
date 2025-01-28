@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sagarswamirao/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sagarswamirao/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sagarswamirao/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sagarswamirao/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/0054-spiral-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sagarswamirao/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/sagarswamirao/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sagarswamirao/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sagarswamirao/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sagarswamirao/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/0074-search-a-2d-matrix) |
