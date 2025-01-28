@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/sagarswamirao/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sagarswamirao/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/sagarswamirao/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sagarswamirao/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sagarswamirao/LeetCode/tree/master/0078-subsets) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagarswamirao/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/sagarswamirao/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sagarswamirao/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/sagarswamirao/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sagarswamirao/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/sagarswamirao/LeetCode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/sagarswamirao/LeetCode/tree/master/0146-lru-cache) |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/sagarswamirao/LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/sagarswamirao/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sagarswamirao/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sagarswamirao/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
