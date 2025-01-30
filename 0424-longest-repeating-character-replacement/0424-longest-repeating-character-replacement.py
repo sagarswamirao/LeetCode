@@ -12,12 +12,13 @@ class Solution:
         for r in range(len(s)):
             freq[getIndexValueChar(s[r])]+=1
             max_freq=max(max_freq, freq[getIndexValueChar(s[r])])  
-            while ((r-l+1) - max_freq) >max_exceptions:
+            if ((r-l+1) - max_freq) >max_exceptions:
                 freq[getIndexValueChar(s[l])]-=1
-                max_freq=max(freq)
+                # max_freq=max(freq)
                 l+=1
 
-            length=max(length, r-l+1)
+            if ((r-l+1) - max_freq) <= max_exceptions:
+                length=max(length, r-l+1)
 
         return length
             
