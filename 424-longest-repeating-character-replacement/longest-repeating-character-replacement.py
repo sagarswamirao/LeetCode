@@ -6,8 +6,10 @@ class Solution:
         max_freq=0
         freq=[0]*26
 
+        @cache
         def getIndexValueChar(ch):
             return ord(ch) - ord('A')
+
         for r in range(len(s)):
             freq[getIndexValueChar(s[r])]+=1
             max_freq=max(max_freq, freq[getIndexValueChar(s[r])])
