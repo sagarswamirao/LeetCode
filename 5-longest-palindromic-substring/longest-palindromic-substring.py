@@ -1,5 +1,6 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
+        @cache
         def check(i, j):
             left = i
             right = j - 1
@@ -14,7 +15,7 @@ class Solution:
             return True
 
         for end in range(len(s), 0, -1):
-            for start in range(len(s) - end + 1):
+            for start in range(0, len(s) - end + 1):
                 if check(start, start + end):
                     return s[start:start + end]
 
