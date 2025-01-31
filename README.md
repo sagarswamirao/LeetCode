@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagarswamirao/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/sagarswamirao/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/sagarswamirao/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sagarswamirao/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sagarswamirao/LeetCode/tree/master/0125-valid-palindrome) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sagarswamirao/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sagarswamirao/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sagarswamirao/LeetCode/tree/master/0062-unique-paths) |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sagarswamirao/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/sagarswamirao/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sagarswamirao/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sagarswamirao/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
