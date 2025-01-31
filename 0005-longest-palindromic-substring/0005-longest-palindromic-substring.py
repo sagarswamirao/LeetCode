@@ -28,10 +28,9 @@ class Solution:
         left=0
         res=''
 
-        for i in range(len(s)):
-            left, right =i,i
-            # odd_length = expand(i, i)
-
+        for mid_index in range(len(s)):
+            # odd length palindrome
+            left, right =mid_index,mid_index
             while left >= 0 and right < len(s) and s[left] == s[right]:
                 if (right -left + 1) > res_len:
                     res=s[left : right+1]
@@ -39,7 +38,8 @@ class Solution:
                 left -= 1
                 right += 1
 
-            left, right=i, i+1
+            # even length palindrome
+            left, right=mid_index, mid_index+1
             while left >= 0 and right < len(s) and s[left] == s[right]:
                 if (right -left + 1) > res_len:
                     res=s[left: right+1]
