@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/sagarswamirao/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/sagarswamirao/LeetCode/tree/master/0792-binary-search) |
 | [0829-subdomain-visit-count](https://github.com/sagarswamirao/LeetCode/tree/master/0829-subdomain-visit-count) |
+| [0854-making-a-large-island](https://github.com/sagarswamirao/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/sagarswamirao/LeetCode/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/sagarswamirao/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/sagarswamirao/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/sagarswamirao/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sagarswamirao/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sagarswamirao/LeetCode/tree/master/0695-max-area-of-island) |
+| [0854-making-a-large-island](https://github.com/sagarswamirao/LeetCode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/sagarswamirao/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sagarswamirao/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/sagarswamirao/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/sagarswamirao/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sagarswamirao/LeetCode/tree/master/0733-flood-fill) |
+| [0854-making-a-large-island](https://github.com/sagarswamirao/LeetCode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/sagarswamirao/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/sagarswamirao/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -438,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/sagarswamirao/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sagarswamirao/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sagarswamirao/LeetCode/tree/master/0733-flood-fill) |
+| [0854-making-a-large-island](https://github.com/sagarswamirao/LeetCode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/sagarswamirao/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sagarswamirao/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sagarswamirao/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -460,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/sagarswamirao/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sagarswamirao/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sagarswamirao/LeetCode/tree/master/0733-flood-fill) |
+| [0854-making-a-large-island](https://github.com/sagarswamirao/LeetCode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/sagarswamirao/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/sagarswamirao/LeetCode/tree/master/1396-count-servers-that-communicate) |
