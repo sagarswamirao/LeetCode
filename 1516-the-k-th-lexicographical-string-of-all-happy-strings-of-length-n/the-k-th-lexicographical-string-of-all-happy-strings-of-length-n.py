@@ -3,11 +3,15 @@ class Solution:
         chars=['a','b','c']
         result_array=[]
 
-        memo={}
+        patterns_generated=0
         def recursive(idx,n,ans):
+            nonlocal patterns_generated
             if len(ans)==n:
-                result_array.append("".join(ans))
+                patterns_generated+=1
+                if patterns_generated==k:
+                    result_array.append("".join(ans)) 
                 return
+                
             if len(ans)>n:
                 return 
 
@@ -17,6 +21,5 @@ class Solution:
                     recursive(i,n,ans)
                     ans.pop()
         
-        x=[]
-        recursive(-1,n,x)
-        return result_array[k-1] if len(result_array)>=k else ""
+        recursive(-1,n,[])
+        return result_array[0] if len(result_array)==1 else ""
