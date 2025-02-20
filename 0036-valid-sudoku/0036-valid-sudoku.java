@@ -21,23 +21,13 @@ class Solution {
                     continue;
                 }
 
-                // Check the row
-                if (rows[r].contains(val)) {
+                // Check the row, col and box
+                int idx = ((r / 3) * 3) + c / 3;
+                if (rows[r].contains(val) || cols[c].contains(val) || boxes[idx].contains(val)) {
                     return false;
                 }
                 rows[r].add(val);
-
-                // Check the column
-                if (cols[c].contains(val)) {
-                    return false;
-                }
                 cols[c].add(val);
-
-                // Check the box
-                int idx = (r / 3) * 3 + c / 3;
-                if (boxes[idx].contains(val)) {
-                    return false;
-                }
                 boxes[idx].add(val);
             }
         }
