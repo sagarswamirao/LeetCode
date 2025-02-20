@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sagarswamirao/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sagarswamirao/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/sagarswamirao/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2107-find-unique-binary-string](https://github.com/sagarswamirao/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagarswamirao/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sagarswamirao/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sagarswamirao/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sagarswamirao/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagarswamirao/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sagarswamirao/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/sagarswamirao/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sagarswamirao/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/sagarswamirao/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sagarswamirao/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sagarswamirao/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1894-merge-strings-alternately](https://github.com/sagarswamirao/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sagarswamirao/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/sagarswamirao/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sagarswamirao/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sagarswamirao/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/sagarswamirao/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -604,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sagarswamirao/LeetCode/tree/master/0078-subsets) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sagarswamirao/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/sagarswamirao/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagarswamirao/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sagarswamirao/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Enumeration
