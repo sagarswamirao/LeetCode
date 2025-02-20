@@ -14,8 +14,8 @@ class Solution {
             continue;
         }
 
-        iC=Character.toUpperCase((s.charAt(i)));
-        jC=Character.toUpperCase((s.charAt(j)));
+        iC=s.charAt(i);
+        jC=s.charAt(j);
 
         if(!iC.equals(jC)){
             return false;
