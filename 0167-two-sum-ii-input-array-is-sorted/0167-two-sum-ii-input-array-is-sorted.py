@@ -4,12 +4,11 @@ class Solution:
         j=len(numbers)-1
 
         while i < j:
-            curr_sum=numbers[i]+numbers[j]
-
+            curr_sum=numbers[i]+numbers[j]   
             if curr_sum==target:
                 return [i+1,j+1]
             if curr_sum>target:
                 j-=1
             else:
                 i+=1
-        return -1
+        return [-1,-1]
