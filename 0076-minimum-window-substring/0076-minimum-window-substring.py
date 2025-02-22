@@ -33,7 +33,7 @@ class Solution:
 
             #match found
             while check_if_all_t_in_s(s_dict,t_dict):
-                if (f_r-f_l)==0 or (f_r-f_l)>(right-left):
+                if (f_r-f_l)==0 or (f_r-f_l)>(right-left+1):
                     f_l=left
                     f_r=right+1
                 s_dict[s[left]]-=1
