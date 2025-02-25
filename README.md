@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-design-a-stack-with-increment-operation](https://github.com/sagarswamirao/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sagarswamirao/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1582-design-browser-history](https://github.com/sagarswamirao/LeetCode/tree/master/1582-design-browser-history) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sagarswamirao/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sagarswamirao/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1876-map-of-highest-peak](https://github.com/sagarswamirao/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sagarswamirao/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagarswamirao/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sagarswamirao/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sagarswamirao/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Brainteaser
 |  |
 | ------- |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/sagarswamirao/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sagarswamirao/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sagarswamirao/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sagarswamirao/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -264,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-longest-turbulent-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1250-longest-common-subsequence](https://github.com/sagarswamirao/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sagarswamirao/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sagarswamirao/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2755-extra-characters-in-a-string](https://github.com/sagarswamirao/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Recursion
 |  |
