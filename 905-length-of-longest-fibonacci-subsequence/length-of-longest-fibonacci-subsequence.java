@@ -12,13 +12,14 @@ class Solution {
                  * the fibonacci subsequence, and x represents
                  * the most current value found. */
                 int x = A[j], y = A[i] + A[j];
-                int length = 2;
+                int curr_length = 2;
                 while (S.contains(y)) {
                     // x, y -> y, x+y
                     int tmp = y;
                     y += x;
                     x = tmp;
-                    ans = Math.max(ans, ++length);
+                    curr_length+=1;
+                    ans = Math.max(ans, curr_length);
                 }
             }
 
