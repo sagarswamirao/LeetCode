@@ -9,32 +9,31 @@
  * }
  */
 class Solution {
-    public double generateNumber(ArrayList<Integer> nums){
-        double sum=0;
-            for(int i=0;i<nums.size();i++){
-            sum*=10;
-            sum+=nums.get(i);
-        }
-        return sum;
-    }
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode headNode=new ListNode(0);
-        ListNode curr=headNode;
+        ListNode head=new ListNode(-1);
+        ListNode tail=head;
         int carry=0;
-        while(l1!=null || l2!=null || carry!=0){
-            int x=(l1!=null)?l1.val:0;
-            int y=(l2!=null)?l2.val:0;
-            int sum=x+y+carry;
-            carry=sum/10;
-            curr.next=new ListNode(sum%10);
+        while(l1!=null || l2!=null){
+            int l1value=0;
+            int l2value=0;
             if(l1!=null){
+                l1value=l1.val;
                 l1=l1.next;
             }
             if(l2!=null){
+                l2value=l2.val;
                 l2=l2.next;
             }
-            curr=curr.next;
+            int sum=carry + (l1value + l2value);
+            tail.next=new ListNode(sum%10);
+            tail=tail.next;
+            carry= (sum>9)?1:0;
         }
-        return headNode.next;
+        if(carry==1){
+            tail.next=new ListNode(1);
+        }
+        return head.next;
+
+        //TC: O(max(m,n))
     }
 }
