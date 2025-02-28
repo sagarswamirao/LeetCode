@@ -11,6 +11,7 @@
 class Solution {
 
     public ListNode reverseList(ListNode head) {
+        // return reverseListIterative(head);
         return reverseListRecursive(head,null);
     }
 
@@ -33,16 +34,4 @@ class Solution {
         }
         return previous;
     }
-
-    // public ListNode reverseList(ListNode head) {
-    //     ListNode current=head;
-    //     ListNode previous=null;
-    //     while(current!=null){
-    //         ListNode nextNode=current.next;
-    //         current.next=previous;
-    //         previous=current;
-    //         current=nextNode;
-    //     }
-    //     return previous;
-    // }
 }
