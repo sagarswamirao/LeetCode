@@ -1,3 +1,5 @@
+//Refer Neetcode for binary search method
+// https://neetcode.io/solutions/time-based-key-value-store
 // class TimeMap {
 //     private Map<String, TreeMap<Integer, String>> m;
 
@@ -17,7 +19,7 @@
 //     }
 // }
 
-//Brute Force
+//SSRK Own Approach
 class TimeMap {
     private HashMap<String, HashMap<String, Integer>> hMap;
     public TimeMap() {
