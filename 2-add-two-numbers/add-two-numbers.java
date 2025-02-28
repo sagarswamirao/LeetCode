@@ -33,5 +33,7 @@ class Solution {
             tail.next=new ListNode(1);
         }
         return head.next;
+
+        //TC: O(max(m,n))
     }
 }
