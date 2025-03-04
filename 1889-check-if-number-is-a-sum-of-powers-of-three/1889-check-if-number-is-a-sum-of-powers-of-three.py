@@ -5,7 +5,11 @@ class Solution:
         for i in range(1,17):
             powers_of_3[i]=powers_of_3[i-1]*3
             max_power=i
-            if powers_of_3[i]>=n:
+
+            if powers_of_3[i]==n:
+                return True
+
+            if powers_of_3[i]>n:
                 break
         
         def recursive(i, max_power, curr_sum, target):
