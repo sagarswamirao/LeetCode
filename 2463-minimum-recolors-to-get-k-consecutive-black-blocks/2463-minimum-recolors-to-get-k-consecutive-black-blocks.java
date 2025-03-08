@@ -7,17 +7,16 @@ class Solution {
             curr_recolors+=1;
         }
         min_recolors=curr_recolors;
-        int left=0;
         for(int right=k;right<blocks.length();right++){
-            if(blocks.charAt(left)=='W'){
+            if(blocks.charAt(right-k)=='W'){
                 curr_recolors-=1;
             }
             if(blocks.charAt(right)=='W'){
                 curr_recolors+=1;
             }
-            left+=1;
-            if(curr_recolors<min_recolors)
-            min_recolors=curr_recolors;
+            if(curr_recolors<min_recolors){
+                min_recolors=curr_recolors;
+            }
         }
         return min_recolors;       
     }
