@@ -6,7 +6,7 @@ class Solution {
             if(blocks.charAt(i)=='W')
             curr_recolors+=1;
         }
-        min_recolors=Math.min(min_recolors, curr_recolors);
+        min_recolors=curr_recolors;
         int left=0;
         for(int right=k;right<blocks.length();right++){
             if(blocks.charAt(left)=='W'){
