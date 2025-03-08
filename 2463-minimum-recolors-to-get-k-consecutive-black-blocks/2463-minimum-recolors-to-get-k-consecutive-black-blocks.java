@@ -16,7 +16,8 @@ class Solution {
                 curr_recolors+=1;
             }
             left+=1;
-            min_recolors=Math.min(min_recolors, curr_recolors);
+            if(curr_recolors<min_recolors)
+            min_recolors=curr_recolors;
         }
         return min_recolors;       
     }
