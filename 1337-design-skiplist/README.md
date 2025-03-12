@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/design-skiplist">1337. Design Skiplist</a></h2><h3>Hard</h3><hr><p>Design a <strong>Skiplist</strong> without using any built-in libraries.</p>
+<h2><a href="https://leetcode.com/problems/design-skiplist">Design Skiplist</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>Design a <strong>Skiplist</strong> without using any built-in libraries.</p>
 
 <p>A <strong>skiplist</strong> is a data structure that takes <code>O(log(n))</code> time to add, erase and search. Comparing with treap and red-black tree which has the same function and performance, the code length of Skiplist can be comparatively short and the idea behind Skiplists is just simple linked lists.</p>
 
