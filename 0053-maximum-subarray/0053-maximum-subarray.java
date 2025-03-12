@@ -3,7 +3,7 @@ class Solution {
         //reset to new subarray upon curr_sum<=0
         int curr_sum=0,maximum_sum=nums[0];
         for(int i=0;i<nums.length;i++){
-            if(curr_sum<=0){
+            if(curr_sum<0){
                 curr_sum=0;
             }
             curr_sum+=nums[i];
