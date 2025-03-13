@@ -4,20 +4,16 @@ class Solution:
             return -1
 
         low = 0
-        high = len(queries) - 1
-        k = float("inf")
+        high = len(queries)
 
         while low <= high:
             mid = (low + high) // 2
-            if self.isZeroArrayPossible(nums, queries[0: mid + 1]):
-                k = min(k, mid + 1)
+            if self.isZeroArrayPossible(nums, queries[0:mid]):
                 high = mid - 1
             else:
                 low = mid + 1
 
-        if k==1:
-            k=min(k, max(nums))
-        return k
+        return low
 
     def isZeroArrayPossible(self, nums, queries):
         reduction_arr = [0] * (len(nums) + 1)
