@@ -1,21 +1,22 @@
 class Solution:
     def minZeroArray(self, nums: List[int], queries: List[List[int]]) -> int:
-        if max(nums) == 0:
-            return 0
+        if not self.isZeroArrayPossible(nums, queries):
+            return -1
 
         low = 0
         high = len(queries) - 1
         k = float("inf")
+
         while low <= high:
             mid = (low + high) // 2
-            if self.isZeroArrayPossible(nums, queries[0:mid + 1]):
+            if self.isZeroArrayPossible(nums, queries[0: mid + 1]):
                 k = min(k, mid + 1)
                 high = mid - 1
             else:
                 low = mid + 1
 
-        if k == float("inf"):
-            return -1
+        if k==1:
+            k=min(k, max(nums))
         return k
 
     def isZeroArrayPossible(self, nums, queries):
