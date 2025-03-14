@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/sagarswamirao/LeetCode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/sagarswamirao/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/sagarswamirao/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/sagarswamirao/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sagarswamirao/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/sagarswamirao/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/sagarswamirao/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/sagarswamirao/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/sagarswamirao/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/sagarswamirao/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sagarswamirao/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sagarswamirao/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sagarswamirao/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
