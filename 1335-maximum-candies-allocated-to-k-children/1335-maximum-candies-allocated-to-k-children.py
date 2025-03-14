@@ -15,9 +15,9 @@ class Solution:
         while low<=high:
             mid=low+(high-low)//2
 
-            if not can_all_k_children_get_x_candies(mid, k):
-                high=mid-1
-            else:
+            if can_all_k_children_get_x_candies(mid, k):
                 low=mid+1
+            else:
+                high=mid-1
         
         return high
