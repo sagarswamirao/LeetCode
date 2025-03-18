@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagarswamirao/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sagarswamirao/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sagarswamirao/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sagarswamirao/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sagarswamirao/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sagarswamirao/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagarswamirao/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagarswamirao/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sagarswamirao/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sagarswamirao/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Prefix Sum
 |  |
@@ -640,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sagarswamirao/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sagarswamirao/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sagarswamirao/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sagarswamirao/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Monotonic Stack
 |  |
