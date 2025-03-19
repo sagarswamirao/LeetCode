@@ -20,7 +20,7 @@ public class Solution {
                 break;
             }
         }
-        //came out of null, no cycle found
+        //came out of null, no cycle found || single element
         if(fast==null || fast.next==null){
             return null;
         }
