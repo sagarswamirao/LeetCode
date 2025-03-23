@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sagarswamirao/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sagarswamirao/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sagarswamirao/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2755-extra-characters-in-a-string](https://github.com/sagarswamirao/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Recursion
 |  |
@@ -597,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/sagarswamirao/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/sagarswamirao/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sagarswamirao/LeetCode/tree/master/0684-redundant-connection) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sagarswamirao/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sagarswamirao/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sagarswamirao/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Binary Search
@@ -767,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/sagarswamirao/LeetCode/tree/master/0207-course-schedule) |
 | [0269-alien-dictionary](https://github.com/sagarswamirao/LeetCode/tree/master/0269-alien-dictionary) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sagarswamirao/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Combinatorics
 |  |
 | ------- |
@@ -783,4 +786,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/sagarswamirao/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sagarswamirao/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
