@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sagarswamirao/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/sagarswamirao/LeetCode/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/sagarswamirao/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sagarswamirao/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/sagarswamirao/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sagarswamirao/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/sagarswamirao/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sagarswamirao/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sagarswamirao/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3430-count-days-without-meetings](https://github.com/sagarswamirao/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Counting
 |  |
 | ------- |
