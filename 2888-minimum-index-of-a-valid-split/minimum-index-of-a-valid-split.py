@@ -12,9 +12,6 @@ class Solution:
                     freq+=1
                 else:
                     freq-=1
-            
-            if majority_ele==int(1e10):
-                return [int(1e10), -1] 
 
             freq_verify=0
             for num in nums:
