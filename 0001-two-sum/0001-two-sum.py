@@ -6,4 +6,4 @@ class Solution:
                 return [hashmap[num],index]
             else:
                 hashmap[target-num]=index
-        return -1
+        return []
