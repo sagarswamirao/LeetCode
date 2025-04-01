@@ -3,7 +3,6 @@ class MinStack:
     def __init__(self):
         self.stack = []
         self.min_tracker = [float("inf")]
-        self.curr_size = 0
 
     def push(self, val: int) -> None:
         self.stack.append(val)
