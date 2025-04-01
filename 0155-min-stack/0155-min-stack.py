@@ -1,13 +1,13 @@
 class MinStack:
 
     def __init__(self):
-        self.stack=[]
-        self.min_tracker=[float('inf')]
-        self.curr_size=0
+        self.stack = []
+        self.min_tracker = [float("inf")]
+        self.curr_size = 0
 
     def push(self, val: int) -> None:
         self.stack.append(val)
-        self.min_tracker.append(min(self.stack[-1],self.min_tracker[-1]))
+        self.min_tracker.append(min(self.stack[-1], self.min_tracker[-1]))
 
     def pop(self) -> None:
         if self.stack:
