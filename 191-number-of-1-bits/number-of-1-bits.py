@@ -1,8 +1,16 @@
 class Solution:
-    def hammingWeight(self, n: int) -> int:
+    # def hammingWeight(self, num: int) -> int:
+    #     count_of_set_bits=0
+    #     n=num
+    #     while n>0:
+    #         if (n & 1) ==1:
+    #             count_of_set_bits+=1
+    #         n=n>>1
+    #     return count_of_set_bits
+    def hammingWeight(self, num: int) -> int:
         count_of_set_bits=0
+        n=num
         while n>0:
-            if (n & 1) ==1:
-                count_of_set_bits+=1
-            n=n>>1
+            n= n & (n-1)
+            count_of_set_bits+=1
         return count_of_set_bits
