@@ -11,6 +11,6 @@ class Solution:
         count_of_set_bits=0
         n=num
         while n>0:
-            n= n & (n-1)
+            n= n & (n-1) #unset the last set bit
             count_of_set_bits+=1
         return count_of_set_bits
