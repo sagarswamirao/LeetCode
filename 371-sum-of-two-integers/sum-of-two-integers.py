@@ -2,7 +2,7 @@ class Solution:
     def getSum(self, a: int, b: int) -> int:
         # Mask to handle 32-bit integer overflow
         MASK = 0xFFFFFFFF
-        INT_MAX = 0x7FFFFFFF
+        INT_MAX = 0x7FFFFFFF   #because 31 bits only; 7 is 0111;
 
         while b != 0:
             # Carry is the AND of a and b
