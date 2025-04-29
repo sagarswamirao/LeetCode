@@ -10,7 +10,6 @@ class Solution:
             s2_freq[ord(s2[i])-ord('a')]+=1
 
         matches=0
-
         for i in range(26):
             matches+= 1 if s1_freq[i]==s2_freq[i] else 0
 
