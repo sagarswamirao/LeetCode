@@ -9,10 +9,10 @@ class Solution {
 
         while(l<r){
             int mid= l + (r-l)/2;
-            if(nums[mid]<nums[0]){
-                r=mid;
-            }else{
+            if(nums[mid]>nums[r]){
                 l=mid+1;
+            }else{
+                r=mid;
             }
         }
         return nums[l];
