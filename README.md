@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/sagarswamirao/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sagarswamirao/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0829-subdomain-visit-count](https://github.com/sagarswamirao/LeetCode/tree/master/0829-subdomain-visit-count) |
+| [0868-push-dominoes](https://github.com/sagarswamirao/LeetCode/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sagarswamirao/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1023-time-based-key-value-store](https://github.com/sagarswamirao/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/sagarswamirao/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/sagarswamirao/LeetCode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/sagarswamirao/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/sagarswamirao/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0868-push-dominoes](https://github.com/sagarswamirao/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sagarswamirao/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/1020-longest-turbulent-subarray) |
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/sagarswamirao/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/sagarswamirao/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sagarswamirao/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0868-push-dominoes](https://github.com/sagarswamirao/LeetCode/tree/master/0868-push-dominoes) |
 | [1894-merge-strings-alternately](https://github.com/sagarswamirao/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sagarswamirao/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sagarswamirao/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
