@@ -6,11 +6,13 @@ class Solution:
         # we wish to find a bad version, store it, and check if previous versions are bad
         low=1
         high=n
-        while low<high:
+        ans=-1
+        while low<=high:
             mid= low + (high-low)//2
-            if not isBadVersion(mid):  #means mid<target
+            if isBadVersion(mid):  
+                ans=mid
+                high=mid-1
+            else: #means mid<target
                 low=mid+1
-            else:
-                high=mid
 
-        return low
+        return ans
