@@ -27,10 +27,10 @@ class TimeMap {
     }
     
     public void set(String key, String value, int timestamp) {
-        if(!this.hMap.containsKey(key)){
-            this.hMap.put(key, new HashMap<>());
-        }
-        this.hMap.get(key).put(value,timestamp);
+        // if(!this.hMap.containsKey(key)){
+        //     this.hMap.put(key, new HashMap<>());
+        // }
+        this.hMap.computeIfAbsent(key, k -> new HashMap<>()).put(value,timestamp);
     }
     
     public String get(String key, int timestamp) {
