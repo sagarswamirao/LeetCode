@@ -5,18 +5,17 @@ class Solution {
             return nums[0];
         }
 
-        int l=0, r=n;
-        int ans=Integer.MAX_VALUE;;
-        while(l<=r){
-            int mid= l + (r-l)/2;
-            if(nums[mid]>nums[r]){ //use condition such that the target is on right part
-                
-                l=mid+1;
+        int low=0, high=n;
+        while(low<high){
+            int mid=low + (high-low)/2;
+            if(nums[mid]>nums[high]){
+                // we for sure knwo that smallest is on the right side
+                low=mid+1;
             }else{
-                ans=Math.min(ans, nums[mid]);
-                r=mid-1;
+                high=mid;
             }
         }
-        return ans;
+        return nums[low];
+
     }
 }
