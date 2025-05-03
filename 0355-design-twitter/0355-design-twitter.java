@@ -1,63 +1,55 @@
-
-import java.util.Collection;
-
-class Post{
-    int userId;
-    int postId;
-    int postTimestamp;
-    static int timestamp=0;
-    public Post(int userId, int postId){
-        this.postId=postId;
-        this.userId=userId;
-        postTimestamp=timestamp;
-        timestamp+=1;
-    }
-}
 class Twitter {
+    private static int timestamp = 0;
+    private Map<Integer, Set<Integer>> followMap;
+    private Map<Integer, List<Post>> userPosts;
 
-    HashMap<Integer, HashSet<Integer>> followersMap;
-    PriorityQueue<Post> posts;
     public Twitter() {
-        followersMap=new HashMap<>();
-        posts=new PriorityQueue<>((a,b)->b.postTimestamp - a.postTimestamp);
+        followMap = new HashMap<>();
+        userPosts = new HashMap<>();
     }
-    
+
     public void postTweet(int userId, int tweetId) {
-        followersMap.computeIfAbsent(userId, k -> new HashSet<>(){{add(userId);}});
-        posts.add(new Post(userId, tweetId));
+        followMap.computeIfAbsent(userId, k -> new HashSet<>()).add(userId);
+        userPosts.computeIfAbsent(userId, k -> new ArrayList<>())
+                 .add(new Post(tweetId, timestamp++));
     }
-    
+
     public List<Integer> getNewsFeed(int userId) {
-        PriorityQueue<Post> postsCopy=new PriorityQueue<>(posts);
-        HashSet<Integer> followersList=followersMap.get(userId);
-        List<Integer> recentPosts=new ArrayList<>();
-        int postLimit=10;
-        if(followersList!=null && !followersList.isEmpty()){
-            while(!postsCopy.isEmpty()){
-                Post post= postsCopy.poll();
-                if(postLimit>0 && followersList.contains(post.userId)){
-                    recentPosts.add(post.postId);
-                    postLimit-=1;
-                }
+        PriorityQueue<Post> minHeap = new PriorityQueue<>((a, b) -> a.timestamp - b.timestamp);
+        Set<Integer> follows = followMap.getOrDefault(userId, new HashSet<>());
+
+        for (int uid : follows) {
+            List<Post> posts = userPosts.getOrDefault(uid, new ArrayList<>());
+            for (int i = posts.size() - 1; i >= 0 && posts.size() - i <= 10; i--) {
+                minHeap.offer(posts.get(i));
+                if (minHeap.size() > 10) minHeap.poll();
             }
         }
-        return recentPosts;
+
+        LinkedList<Integer> result = new LinkedList<>();
+        while (!minHeap.isEmpty()) {
+            result.addFirst(minHeap.poll().tweetId);
+        }
+        return result;
     }
-    
+
     public void follow(int followerId, int followeeId) {
-        followersMap.computeIfAbsent(followerId, k -> new HashSet<>(){{add(followerId);}}).add(followeeId);   
+        followMap.computeIfAbsent(followerId, k -> new HashSet<>()).add(followeeId);
     }
-    
+
     public void unfollow(int followerId, int followeeId) {
-        followersMap.get(followerId).remove(followeeId);
+        if (followerId != followeeId) {
+            followMap.getOrDefault(followerId, new HashSet<>()).remove(followeeId);
+        }
+    }
+
+    private static class Post {
+        int tweetId;
+        int timestamp;
+
+        public Post(int tweetId, int timestamp) {
+            this.tweetId = tweetId;
+            this.timestamp = timestamp;
+        }
     }
 }
-
-/**
- * Your Twitter object will be instantiated and called as such:
- * Twitter obj = new Twitter();
- * obj.postTweet(userId,tweetId);
- * List<Integer> param_2 = obj.getNewsFeed(userId);
- * obj.follow(followerId,followeeId);
- * obj.unfollow(followerId,followeeId);
- */
