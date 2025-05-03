@@ -31,6 +31,6 @@ class Solution {
     public double getEuclideanDistance(int x2, int y2){
         int x1=0;
         int y1=0;
-        return (int) Math.pow((x2-x1), 2) + Math.pow((y2-y1), 2);
+        return Math.pow((x1-x2), 2) + Math.pow((y1-y2), 2);
     }
 }
