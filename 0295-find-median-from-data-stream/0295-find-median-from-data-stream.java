@@ -9,8 +9,6 @@ class MedianFinder {
     }
 
     public void addNum(int num) {
-            PriorityQueue<Integer> minHeapForLargeNums1=minHeapForLargeNums;
-            PriorityQueue<Integer> maxHeapForSmallNums1=maxHeapForSmallNums;
         if (maxHeapForSmallNums.size() == 0 || maxHeapForSmallNums.peek() >= num) {
             maxHeapForSmallNums.offer(num);
             if (maxHeapForSmallNums.size() > minHeapForLargeNums.size()+ 1 ) {
