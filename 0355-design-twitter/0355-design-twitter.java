@@ -10,26 +10,34 @@ class Twitter {
 
     public void postTweet(int userId, int tweetId) {
         followMap.computeIfAbsent(userId, k -> new HashSet<>()).add(userId);
-        userPosts.computeIfAbsent(userId, k -> new ArrayList<>())
-                 .add(new Post(tweetId, timestamp++));
+        userPosts.computeIfAbsent(userId, k -> new ArrayList<>()).add(new Post(tweetId, timestamp++));
     }
 
+    //Similar to Merge K Sorted Lists
     public List<Integer> getNewsFeed(int userId) {
-        PriorityQueue<Post> minHeap = new PriorityQueue<>((a, b) -> a.timestamp - b.timestamp);
         Set<Integer> follows = followMap.getOrDefault(userId, new HashSet<>());
+        PriorityQueue<int[]> maxHeap = new PriorityQueue<>((a, b) -> b[0] - a[0]);
 
         for (int uid : follows) {
             List<Post> posts = userPosts.getOrDefault(uid, new ArrayList<>());
-            for (int i = posts.size() - 1; i >= 0 && posts.size() - i <= 10; i--) {
-                minHeap.offer(posts.get(i));
-                if (minHeap.size() > 10) minHeap.poll();
+            int lastIdx = posts.size() - 1;
+            if (lastIdx >= 0) {
+                Post p = posts.get(lastIdx);
+                maxHeap.offer(new int[]{p.timestamp, p.tweetId, uid, lastIdx - 1});
             }
         }
 
-        LinkedList<Integer> result = new LinkedList<>();
-        while (!minHeap.isEmpty()) {
-            result.addFirst(minHeap.poll().tweetId);
+        List<Integer> result = new ArrayList<>();
+        while (!maxHeap.isEmpty() && result.size() < 10) {
+            int[] top = maxHeap.poll();
+            result.add(top[1]); // tweetId
+            int idx = top[3];
+            if (idx >= 0) {
+                Post nextPost = userPosts.get(top[2]).get(idx);
+                maxHeap.offer(new int[]{nextPost.timestamp, nextPost.tweetId, top[2], idx - 1});
+            }
         }
+
         return result;
     }
 
