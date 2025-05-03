@@ -438,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/sagarswamirao/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sagarswamirao/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sagarswamirao/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sagarswamirao/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/sagarswamirao/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/sagarswamirao/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/sagarswamirao/LeetCode/tree/master/1127-last-stone-weight) |
@@ -504,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/sagarswamirao/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0729-my-calendar-i](https://github.com/sagarswamirao/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sagarswamirao/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/sagarswamirao/LeetCode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/sagarswamirao/LeetCode/tree/master/0859-design-circular-deque) |
 | [1023-time-based-key-value-store](https://github.com/sagarswamirao/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -730,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sagarswamirao/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sagarswamirao/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sagarswamirao/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sagarswamirao/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sagarswamirao/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -741,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sagarswamirao/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sagarswamirao/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -754,6 +758,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sagarswamirao/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sagarswamirao/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sagarswamirao/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sagarswamirao/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sagarswamirao/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -796,6 +801,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sagarswamirao/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sagarswamirao/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/sagarswamirao/LeetCode/tree/master/1582-design-browser-history) |
 ## Radix Sort
 |  |
