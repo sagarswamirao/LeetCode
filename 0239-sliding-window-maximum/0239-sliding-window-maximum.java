@@ -12,7 +12,7 @@ class Solution {
             if(right-queue.peekFirst()>=k){
                 queue.poll();
             }
-            if(right>=k-1){
+            if(right>=k-1){ //at k-1, 0-k elements presentt in window
                 ans[right-k+1]=nums[queue.peekFirst()];
             }
         }
