@@ -21,7 +21,7 @@
 
 //SSRK Own Approach
 class TimeMap {
-    private HashMap<String, HashMap<String, Integer>> hMap;
+    private HashMap<String, ArrayList<Pair<Integer, String>>> hMap;
     public TimeMap() {
         this.hMap=new HashMap<>();
     }
@@ -30,28 +30,35 @@ class TimeMap {
         // if(!this.hMap.containsKey(key)){
         //     this.hMap.put(key, new HashMap<>());
         // }
-        this.hMap.computeIfAbsent(key, k -> new HashMap<>()).put(value,timestamp);
+        this.hMap.computeIfAbsent(key, k -> new ArrayList<>()).add(new Pair<>(timestamp,value));
     }
     
-    public String get(String key, int timestamp) {
+    public String get(String key, int target_timestamp) {
 
         if(this.hMap.size()==0 || !this.hMap.containsKey(key)){
             return "";
         }
         
-        int nearest_timestamp=0;
         String nearestValue="";
-        for(Map.Entry<String, Integer> entry:this.hMap.get(key).entrySet()){
-            Integer curr_timestamp=entry.getValue();
-            String curr_value=entry.getKey();
-            if(curr_timestamp>timestamp){
-                continue;
-            }
-            if(nearest_timestamp<curr_timestamp){
-                nearestValue=curr_value;
-                nearest_timestamp=curr_timestamp;
+
+
+        ArrayList<Pair<Integer, String>>list=this.hMap.get(key);
+        int left=0;
+        int right=list.size()-1;
+        if(list.size()==0){
+            return "";
+        }
+        while(left<=right){
+            int mid=left + (right-left)/2;
+            
+            if(list.get(mid).getKey()<=target_timestamp){
+                nearestValue=list.get(mid).getValue();
+                left=mid+1;
+            }else{
+                right=mid-1;
             }
         }
+
         return nearestValue;
     }
 }
