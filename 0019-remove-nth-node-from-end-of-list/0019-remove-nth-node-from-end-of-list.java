@@ -19,7 +19,7 @@ class Solution {
         for(int i=0;i<n;i++){
             fast=fast.next;
         }
-        //to handle 1 size and 2 size elements
+        //to remove 0th element
         if (fast == null) return head.next;
         while(fast!=null && fast.next!=null){
             slow=slow.next;
