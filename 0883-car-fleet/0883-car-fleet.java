@@ -61,10 +61,18 @@ class Solution {
             int curr_car_start_position = item.getKey();
             int curr_car_speed = item.getValue();
             float time_to_reach_target = (target - curr_car_start_position) / (float) curr_car_speed;
+            // add the distance taken directly
             stack.push(time_to_reach_target);
-
+            // when more than 2 cars, chance of a fleet
             if (!stack.isEmpty() && stack.size()>1) {
-                if (stack.peek() <= stack.elementAt(stack.size()-2)) {
+                // if curr car takes lesser or same time to reach as the next car, then it is a part of the fleet
+                //so we will remove current car, and keep the next car
+                //curr means in behind position
+                //next means ahead in the position
+                //because faster cars behind have to join the fleet
+                float curr_car_time_taken=stack.peek();
+                float car_ahead_time_taken=stack.elementAt(stack.size()-2);
+                if (curr_car_time_taken<=car_ahead_time_taken) {
                     stack.pop();
                 }
             }
