@@ -30,7 +30,6 @@ class Solution {
         Node deepHead=new Node(-1);
         Node deepCurr=deepHead;
         while(curr!=null){
-            int currVal=curr.val;
             deepCurr.next=this.getNode(curr,hMap);
             deepCurr=deepCurr.next;
             deepCurr.random=this.getNode(curr.random,hMap);
