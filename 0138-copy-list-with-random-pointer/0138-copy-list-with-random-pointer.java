@@ -18,7 +18,9 @@ class Solution {
         if(curr==null){
             return null;
         }
-        hMap.computeIfAbsent(curr, k->new Node(curr.val));
+        if(!hMap.containsKey(curr)){
+            hMap.put(curr,new Node(curr.val));
+        }
         return hMap.get(curr);
     }
     
@@ -28,6 +30,7 @@ class Solution {
         Node deepHead=new Node(-1);
         Node deepCurr=deepHead;
         while(curr!=null){
+            int currVal=curr.val;
             deepCurr.next=this.getNode(curr,hMap);
             deepCurr=deepCurr.next;
             deepCurr.random=this.getNode(curr.random,hMap);
