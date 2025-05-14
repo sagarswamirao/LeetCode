@@ -9,16 +9,16 @@ class Solution:
         max_diameter = 0
 
         # returns the height (not diameter)
-        def recursive(node):
+        def dfs(node):
             nonlocal max_diameter
 
             if not node:
                 return 0
 
-            left = recursive(node.left)
-            right = recursive(node.right)
+            left = dfs(node.left)
+            right = dfs(node.right)
             max_diameter = max(max_diameter, left + right)
             return max(left, right) + 1
 
-        recursive(root)
+        dfs(root)
         return max_diameter
