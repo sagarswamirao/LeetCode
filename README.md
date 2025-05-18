@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/sagarswamirao/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/sagarswamirao/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sagarswamirao/LeetCode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/sagarswamirao/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/sagarswamirao/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sagarswamirao/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sagarswamirao/LeetCode/tree/master/0125-valid-palindrome) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/sagarswamirao/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sagarswamirao/LeetCode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/sagarswamirao/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sagarswamirao/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sagarswamirao/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sagarswamirao/LeetCode/tree/master/0062-unique-paths) |
@@ -426,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sagarswamirao/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/0054-spiral-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sagarswamirao/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2048-build-array-from-permutation](https://github.com/sagarswamirao/LeetCode/tree/master/2048-build-array-from-permutation) |
