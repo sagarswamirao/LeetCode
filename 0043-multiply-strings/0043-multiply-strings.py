@@ -6,17 +6,13 @@ class Solution:
 
         ans_arr=[0 for i in range(len(num1)+len(num2)+1)]
         
+        num1=num1[::-1]
+        num2=num2[::-1]
         for idx1 in range(len(num1)):
-            pos=idx1
-            carry=0
-            for n2 in reversed(num2):
-                ans_arr[pos] = ans_arr[pos] + (int(num1[len(num1)-idx1-1]) * int(n2)) + carry
-                carry=ans_arr[pos]//10
-                ans_arr[pos]=ans_arr[pos]%10
-                pos+=1
-
-            if carry!=0:
-               ans_arr[pos]+=carry 
+            for idx2 in range(len(num2)):
+                ans_arr[idx1+idx2] += (int(num1[idx1]) * int(num2[idx2]))
+                ans_arr[idx1+idx2+1]+=ans_arr[idx1+idx2]//10
+                ans_arr[idx1+idx2]=ans_arr[idx1+idx2]%10
         ans_arr.reverse()
 
         start_idx=0
