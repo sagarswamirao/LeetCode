@@ -5,10 +5,10 @@ class Solution:
 
         def recursive(i, n, ds):
             if len(ds)==n:
-                answer.append(ds[:])
+                answer.append(ds.copy())
                 return
-            if i>=n:
-                return
+            # if i>=n:
+            #     return
             
             for next_i in range(len(in_use)):
                 if in_use[next_i]==False:
