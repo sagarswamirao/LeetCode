@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sagarswamirao/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sagarswamirao/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sagarswamirao/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sagarswamirao/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/sagarswamirao/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarswamirao/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/sagarswamirao/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/sagarswamirao/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sagarswamirao/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sagarswamirao/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sagarswamirao/LeetCode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/sagarswamirao/LeetCode/tree/master/0214-shortest-palindrome) |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/sagarswamirao/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sagarswamirao/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sagarswamirao/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sagarswamirao/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sagarswamirao/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sagarswamirao/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/sagarswamirao/LeetCode/tree/master/0695-max-area-of-island) |
@@ -605,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sagarswamirao/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sagarswamirao/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sagarswamirao/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -825,6 +829,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/sagarswamirao/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sagarswamirao/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sagarswamirao/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sagarswamirao/LeetCode/tree/master/0079-word-search) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sagarswamirao/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/sagarswamirao/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagarswamirao/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
