@@ -6,23 +6,26 @@ class Solution:
                 goal = i
         return goal == 0
 
-
+# Recursion + Memo
 # class Solution:
 #     def canJump(self, nums: List[int]) -> bool:
-#         can_reach=False
+#         memo={}
 #         def recursive(nums, curr_index, n):
-#             nonlocal can_reach
-#             if curr_index==n:
-#                 can_reach=True
-#                 return True
-#             if curr_index>n:
-#                 return False
+#             nonlocal memo
 
+#             if curr_index in memo:
+#                 return memo[curr_index]
+
+#             if curr_index==n:
+#                 return True
+                
 #             for i in range(nums[curr_index]):
 #                 next_index=curr_index+i+1
+#                 if next_index>n:
+#                     continue
 #                 if recursive(nums, next_index, n):
+#                     memo[curr_index]=True
 #                     return True
-            
+#             memo[curr_index]=False
 #             return False
-#         recursive(nums, 0, len(nums)-1)
-#         return can_reach
+#         return recursive(nums, 0, len(nums)-1)
