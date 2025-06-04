@@ -49,12 +49,11 @@ private void moveToEnd(int key) {
 }
 
 
-    private DoublyListNode removeFromCache(int key) {
+    private void removeFromCache(int key) {
         DoublyListNode nodeToRemove = this.hMap.get(key);
         nodeToRemove.prev.next = nodeToRemove.next;
         nodeToRemove.next.prev = nodeToRemove.prev;
         this.hMap.remove(key);
-        return nodeToRemove;
     }
 
     private void addToCache(int key, int value) {
