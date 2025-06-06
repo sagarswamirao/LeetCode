@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagarswamirao/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sagarswamirao/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sagarswamirao/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sagarswamirao/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sagarswamirao/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sagarswamirao/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -754,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sagarswamirao/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sagarswamirao/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sagarswamirao/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sagarswamirao/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sagarswamirao/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/sagarswamirao/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sagarswamirao/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
